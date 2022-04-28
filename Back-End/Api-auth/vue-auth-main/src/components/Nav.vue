@@ -15,7 +15,7 @@
 
         <ul class="navbar-nav me-auto mb-2 mb-md-0" v-if="auth">
           <li class="nav-item">
-            <a href="#" class="nav-link" @click="logout">Logout</a>
+            <a href="#" class="nav-link" @click="logout">Logout</a> 
           </li>
         </ul>
       </div>
