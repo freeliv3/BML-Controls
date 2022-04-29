@@ -24,5 +24,28 @@
 </template>
 
 <script lang="ts">
+import {computed} from 'vue';
+import {useStore} from "vuex";
 
+export default {
+  name: "Nav-",
+  setup() {
+    const store = useStore();
+
+    const auth = computed(() => store.state.authenticated)
+
+    const logout = async () => {
+      await fetch('http://localhost:8000/api/logout', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        credentials: 'include',
+      });
+    }
+
+    return {
+      auth,
+      logout
+    }
+  }
+}
 </script>
