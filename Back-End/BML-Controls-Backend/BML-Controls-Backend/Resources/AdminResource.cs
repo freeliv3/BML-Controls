@@ -1,6 +1,6 @@
-﻿namespace BML_Controls_Backend.Domain.Models
+﻿namespace BML_Controls_Backend.Resources
 {
-    public class Admin
+    public class AdminResource
     {
         public int Id { get; set; }
         public string Name { get; set; }
