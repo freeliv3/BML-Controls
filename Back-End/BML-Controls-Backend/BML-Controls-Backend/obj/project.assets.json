@@ -7567,11 +7567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\blazi\\source\\repos\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
+      "projectUniqueName": "E:\\Taller de Desempeño Profesional\\BML-Controls\\Back-End\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
       "projectName": "BML-Controls-Backend",
-      "projectPath": "C:\\Users\\blazi\\source\\repos\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
+      "projectPath": "E:\\Taller de Desempeño Profesional\\BML-Controls\\Back-End\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
       "packagesPath": "C:\\Users\\blazi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\blazi\\source\\repos\\BML-Controls-Backend\\BML-Controls-Backend\\obj\\",
+      "outputPath": "E:\\Taller de Desempeño Profesional\\BML-Controls\\Back-End\\BML-Controls-Backend\\BML-Controls-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\blazi\\AppData\\Roaming\\NuGet\\NuGet.Config",

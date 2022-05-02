@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQMhWYYiH3rfdHP2GbrLBCbUPOvncl5WAwvgg1Ih9904A9EfwfNO56/pHDs4rqVaMiTHeOYeQaJ7SuI9ax0NqA==",
+  "dgSpecHash": "//M8YyMDik12LItfTcN7nXbR/JhA1gguBlDlPnLMTepPRp51V+p+LwlVg1XLYRWkLvuBLBu2Q+x1Rowfh27bYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\blazi\\source\\repos\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
+  "projectFilePath": "E:\\Taller de Desempeño Profesional\\BML-Controls\\Back-End\\BML-Controls-Backend\\BML-Controls-Backend\\BML-Controls-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\blazi\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\blazi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

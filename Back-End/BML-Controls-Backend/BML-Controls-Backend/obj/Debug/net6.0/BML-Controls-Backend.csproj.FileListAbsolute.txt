@@ -73,3 +73,13 @@ C:\Users\blazi\source\repos\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\
 C:\Users\blazi\source\repos\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.pdb
 C:\Users\blazi\source\repos\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.genruntimeconfig.cache
 C:\Users\blazi\source\repos\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\ref\BML-Controls-Backend.dll
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.csproj.AssemblyReference.cache
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.AssemblyInfoInputs.cache
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.AssemblyInfo.cs
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.csproj.CoreCompileInputs.cache
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.dll
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\refint\BML-Controls-Backend.dll
+E:\Taller de Desempeño Profesional\BML-Controls\Back-End\BML-Controls-Backend\BML-Controls-Backend\obj\Debug\net6.0\BML-Controls-Backend.pdb
